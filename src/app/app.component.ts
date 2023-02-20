@@ -36,7 +36,7 @@ export class AppComponent implements OnInit{
     this.midBox1 = {
       title: 'Observations',
       data:[
-        {name: 'Taylor Swift', avatar: '../assets/images/ts.jpg', progress: 75,ratings: 1, time: '2023-02-15T04:09:06.583Z', left: '2'},
+        {name: 'Taylor Swift', avatar: '../assets/images/ts.jpg', progress: 75,ratings: 3, time: '2023-02-15T04:09:06.583Z', left: '2'},
         {name: 'Will Smith', avatar: '../assets/images/ws.jpg', progress: 85,ratings: 1, time: '2022-02-17T06:07:06.584Z', left: '5'},
         {name: 'Johnson', avatar: '../assets/images/mj.jpg', progress: 69,ratings: 4, time: '2021-03-14T05:06:09.585Z', left: '8'},
         {name: 'Anne Hathway', avatar: '../assets/images/ah.jpg', progress: 68,ratings: 3, time: '2020-09-13T09:01:00.586Z', left: '7'},
